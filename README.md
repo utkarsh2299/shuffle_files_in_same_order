@@ -20,6 +20,9 @@ python shuffle.py file1_path file2_path output_file_path [random_seed]
 ```
 
 -file1_path: Path to the first input file.
+
 -file2_path: Path to the second input file.
+
 -output_file_path: Path to the output file where the merged and shuffled content will be saved.
+
 -random_seed (optional): Specify a random seed for reproducibility. If not provided, the shuffle will be random.
