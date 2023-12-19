@@ -17,6 +17,7 @@ The script takes the content of two input files, merges them, and shuffles the l
 
 ```bash
 python merge_and_shuffle.py file1_path file2_path output_file_path [random_seed]
+```
 
 -file1_path: Path to the first input file.
 -file2_path: Path to the second input file.
